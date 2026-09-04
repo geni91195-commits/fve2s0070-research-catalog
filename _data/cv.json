@@ -66,32 +66,46 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "FVE2S0070: Replicable Analysis for Public Policy",
+      "publisher": "Under review",
+      "releaseDate": "2026-04-15",
+      "website": "",
+      "summary": "Under review. Official implementation not publicly released yet."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "FVE2S0070: Stewardship Plans for Shared Corpora",
+      "publisher": "Forum on Open Knowledge Systems 2036",
+      "releaseDate": "2026-07-15",
+      "website": "",
+      "summary": "Accepted at Forum on Open Knowledge Systems 2036. Official implementation not publicly released yet."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "FVE2S0070: Open Science Ledgers for Research Artifacts",
+      "publisher": "FVE2S0070 Systems Symposium",
+      "releaseDate": "2027-02-15",
+      "website": "https://github.com/geni91195-commits/fv-eph-s0070-evidence",
+      "summary": "Published at FVE2S0070 Systems Symposium. Official implementation released."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "FVE2S0070: Citation Graph Repair at Scale",
+      "publisher": "FVE2S0070 Systems Symposium",
+      "releaseDate": "2027-05-15",
+      "website": "https://github.com/geni91195-commits/fv-eph-s0070-stewardship",
+      "summary": "Published at FVE2S0070 Systems Symposium. Official implementation released."
+    },
+    {
+      "name": "FVE2S0070: Reviewable Provenance for Data Releases",
+      "publisher": "Conference on Research Infrastructure 2036",
+      "releaseDate": "2028-03-15",
+      "website": "https://github.com/geni91195-commits/fv-eph-s0070-catalog",
+      "summary": "Accepted at Conference on Research Infrastructure 2036. Official implementation released."
+    },
+    {
+      "name": "FVE2S0070: Versioned Evidence for Meta-Research",
+      "publisher": "Workshop on Evidence Stewardship 2036",
+      "releaseDate": "2028-06-15",
+      "website": "",
+      "summary": "Accepted at Workshop on Evidence Stewardship 2036. Official implementation not publicly released yet."
     }
   ],
   "presentations": [
